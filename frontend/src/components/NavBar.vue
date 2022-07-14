@@ -4,8 +4,8 @@
       <div class="container-fluid">
         <a class="navbar-brand" href="/shop">BakedBox</a>
         <div class="navbar-nav">
-          <RouterLink to="/" class="nav-link disabled">Home</RouterLink>
-          <RouterLink to="/shop" class="nav-link">Shop</RouterLink>
+          <RouterLink to="/home" class="nav-link disabled">Home</RouterLink>
+          <RouterLink to="/" class="nav-link">Shop</RouterLink>
           <RouterLink to="/faq" class="nav-link disabled">FAQ</RouterLink>
         </div>
       </div>
