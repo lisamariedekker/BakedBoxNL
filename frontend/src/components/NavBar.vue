@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/shop">BakedBox</a>
+        <a class="navbar-brand" href="/">BakedBox</a>
         <div class="navbar-nav">
           <RouterLink to="/home" class="nav-link disabled">Home</RouterLink>
           <RouterLink to="/" class="nav-link">Shop</RouterLink>
